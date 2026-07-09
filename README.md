@@ -1,5 +1,5 @@
-## Welcome to my Blog
-[Wayne's Blog](https://wrans.top)
+## Welcome to my Gallery
+[Ethan's Gallery](https://gallery.lied.us)
 <!--
 **wr20060926/wr20060926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 😉Gender：♂
 
-💡Blog：[Wayne's Blog](https://wrans.top)
+💡Blog：[Ethan's Gallery](https://gallery.lied.us)
 
 📫Email: wran@outlook.it
 
@@ -27,14 +27,3 @@ Here are some ideas to get you started:
  - Graphic Design
  - Photography 
  - ...
-
-
-## Another Links：
-
-[Life CountDown](https://cd.wahr.top)
-
-[Dictation Tool](https://dictation.wahr.top)
-## OverView
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wayne0926)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wayne0926)](https://github.com/anuraghazra/github-readme-stats)
-
